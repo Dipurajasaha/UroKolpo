@@ -7,12 +7,12 @@ A Django-based social media platform where users can share posts, photos, and co
 - 🔐 **User Authentication** - Register, login, and logout functionality
 - 📝 **Create Posts** - Share your thoughts with text and photos
 - 🖼️ **Photo Upload** - Attach images to your posts
-- ✏️ **Edit Posts** - Update your posts anytime
-- 🗑️ **Delete Posts** - Remove posts with confirmation
+- ✏️ **Edit Posts** - Edit your own posts (only post owners can edit)
+- 🗑️ **Delete Posts** - Delete your own posts with confirmation page
 - 🔍 **Search** - Search posts by content or username
-- 👤 **User Profiles** - See posts from different users
 - 📱 **Responsive Design** - Mobile-friendly interface with Bootstrap
 - 🌙 **Dark Theme** - Modern dark mode interface
+- 🔒 **Permission Control** - Users can only edit/delete their own posts
 
 ## Tech Stack
 
